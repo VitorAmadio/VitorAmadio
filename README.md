@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=header"/>
 <h1> Olá, eu sou o Vitor Godoy Amadio! 👋 </h1>
+- Estudante de Análise e Desenvolvimento de Sistemas 
+<br>
 - Sou um estudante de tecnologia apaixonado por backend e atualmente estagiário na Coamo Agroindustrial Cooperativa. 
 <br>
 - Atualmente, estou me concentrando em desenvolvimento em Java e estou animado em aprender mais sobre a linguagem e suas possibilidades.
