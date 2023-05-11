@@ -4,7 +4,7 @@
 <br>
 - Sou um estudante de tecnologia apaixonado por backend e atualmente estagiário na Coamo Agroindustrial Cooperativa. 
 <br>
-- Atualmente, estou me concentrando em desenvolvimento em Java e estou animado em aprender mais sobre a linguagem e suas possibilidades.
+- Atualmente, estou me concentrando em aprender  Java e estou animado em aprender mais sobre a linguagem e suas possibilidades.
 
 <div> <h2> Minhas habilidades: </h2>
   
