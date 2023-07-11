@@ -2,7 +2,7 @@
 <h1> Olá, eu sou o Vitor Godoy Amadio!!! 👋 </h1>
 - Estudante de Análise e Desenvolvimento de Sistemas 
 <br>
-- Sou um estudante de tecnologia apaixonado por backend e atualmente estagiário na Coamo Agroindustrial Cooperativa. 
+- Sou um estudante de tecnologia apaixonado por backend e atualmente Analista de Sistemas na Coamo Agroindustrial Cooperativa. 
 <br>
 - Atualmente, estou me concentrando em aprender  Java e estou animado em aprender mais sobre a linguagem e suas possibilidades.
 
